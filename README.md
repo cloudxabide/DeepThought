@@ -12,14 +12,14 @@ Primarily exploring:
 
 I use perplexity.ai for "general search or guidance" - essentially for things that I could have found with a Google Search.  I have a pro subscription.
 
-
-# Retrieve a modelId and the configure chat-cli to use it by default
+## Let's go...
+### Retrieve a modelId and the configure chat-cli to use it by default
 ```bash
 aws bedrock list-foundation-models --query 'modelSummaries[*].[modelArn, modelId, modelName]' --output text | grep novak
 chat-cli config set model-id amazon.nova-lite-v1:0
 ```
 
-# Test a query
+### Test a query
 ```
 glados:~ jradtke$ chat-cli config set model-id amazon.nova-lite-v1:0
 Configuration set: model-id = amazon.nova-lite-v1:0
@@ -41,8 +41,11 @@ https://github.com/chat-cli/chat-cli
 # Perplexity.AI CLI client (created by me)
 https://github.com/cloudxabide/perplexity-cli
 
-# Amazon Q CLI
+# References
+## Perplexity.ai
 
-# Anthropic Claude Code
+## Amazon Q CLI
 
-# Visual Studio Code - VS Code
+## Anthropic Claude Code
+
+## Visual Studio Code - VS Code
