@@ -5,10 +5,10 @@ Purpose:  exploring code assistants and chat clients
 
 Primarily exploring:
 
-* Amazon Bedrock (for Nova and Claude access)
-* Anthropic Claude / Claude Code (possibly API based subscription)
-* Perplexity.AI (WebUI and CLI)
+* Perplexity.AI (WebUI and CLI) -- for general web search, etc..
+* Anthropic Claude Pro / Claude Code -- code assistant
 * Using both CLI and VS Code
+* Amazon Bedrock (for Nova and Claude access) -- occasional AWS specific tasks and comparison
 
 I use perplexity.ai for "general search or guidance" - essentially for things that I could have found with a Google Search.  I have a pro subscription.
 
