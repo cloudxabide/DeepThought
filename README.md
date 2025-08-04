@@ -2,7 +2,7 @@
 
 ![DeepThought Banner](Images/DEEPTHOUGHT-Banner.png)
 
- Status:  Work in Progress (2025-08-01)
+ Status:  Work in Progress (2025-08-01)  
 Purpose:  exploring code assistants and chat clients
 
 My intent is the learn some process for adopting and utilizing Claude / Claude Code and apply those learnings to on-prem LLM.  This repo is not a how-to, guide, instructions.  Instead, it's just some notes and anecdotes.
