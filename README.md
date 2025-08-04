@@ -42,10 +42,12 @@ ProTip:  While I figured out how to query the AWS billing API, I am not going to
 
 
 # References
-## Amazon Bedrock Chat CLI client (created by old coworkers and I contributed to)
+## Amazon Bedrock Chat CLI client 
+(created by old coworkers and I  was able to contribute to)   
 https://github.com/chat-cli/chat-cli
 
-## Perplexity.AI CLI client (created by me)
+## Perplexity.AI CLI client 
+(created by me, then recreated using LLM, recently improved using Claude)  
 https://github.com/cloudxabide/perplexity-cli
 
 ## Perplexity.ai
