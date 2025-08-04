@@ -40,12 +40,12 @@ These variations are due to the elliptical orbit of the Earth around the Sun.
 ProTip:  While I figured out how to query the AWS billing API, I am not going to explain it here and will not be using it.  There is a per-use charge to run the queries (I'll mention this to Corey Quinn the next time I see him as it is pretty dumb that they do this)
 
 # References
-## Amazon Bedrock Chat CLI client 
+## Amazon Bedrock Chat CLI client -- chat-cli (unofficial)
 -- created by old coworkers and I  was able to contribute to   
 https://github.com/chat-cli/chat-cli
 
-## Perplexity.AI CLI client 
--- created by me, then recreated using LLM, recently improved using Claude  
+## Perplexity.AI CLI client -- perplexity-cli (unofficial)
+-- created by me, then recreated using LLM with Amazon Q, recently improved using Claude  
 https://github.com/cloudxabide/perplexity-cli
 
 ## Perplexity.ai
