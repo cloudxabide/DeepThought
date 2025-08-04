@@ -1,5 +1,7 @@
 # GenAI
 
+![DeepThought Banner](Images/DEEPTHOUGHT-Banner.png)
+
  Status:  Work in Progress (2025-08-01)
 Purpose:  exploring code assistants and chat clients
 
